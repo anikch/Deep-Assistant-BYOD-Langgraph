@@ -43,6 +43,9 @@ chroma_data/
 # Local memory / notes
 memory/
 
+# Original PRD (internal)
+assistant_byod.md
+
 # OS files
 .DS_Store
 *.log
